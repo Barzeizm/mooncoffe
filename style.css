@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+/*navbar*/
+header nav{
+    display: flex;
+    height: 90px;
+    background-color: red;
+}
